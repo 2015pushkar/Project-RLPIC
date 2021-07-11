@@ -1,16 +1,5 @@
-# _Project-RLPIC_
-
-Network coding is a simple yet powerful technique to improve the performance of the
-communication systems significantly. The fundamental concept of NC is to perform arbitrary
-coding operations on the contents of packets rather than the direct replication and forwarding
-implemented in traditional store-and-forward networks. In particular we are using PICOD technique
-with relay assisting to achieve optimizing one or more parameters using a heuristic approach
-based on prior research works existing in the domain.
-
-
-
-##t_var = number of different values of t
- ##n_var = number of different values of number of clients
+<p>#t_var = number of different values of t</p>
+<p> #n_var = number of different values of number of clients</p>
  mat[][] of dim(t_var,n_var) 
  for t in range 1:9:2:
  for n in range 25:1000:25:
